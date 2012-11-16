@@ -138,16 +138,16 @@ Decidimos utilizar archivos de texto en donde se almacenara los datos que repres
 
 Además es necesario crear conexiones entre cada uno de los cuadrados que forman el mapa conceptual, para esto se hace uso de la palabra “conectar” seguida de los dos puntos que se desean conectar (de donde inicia la línea, al final de esta).
 A continuación se presenta un ejemplo del formato que contendrá dicho archivo:
-idea,g,g
-idea,h,h
-idea,e,e
-idea,b,b
-idea,o,o
-idea,to,to
-conectar,g,h
-conectar,h,o
-conectar,g,e
-conectar,b,e
+* idea,g,g
+* idea,h,h
+* idea,e,e
+* idea,b,b
+* idea,o,o
+* idea,to,to
+* conectar,g,h
+* conectar,h,o
+* conectar,g,e
+* conectar,b,e
 
 Una vez que se genera el diagrama anterior, este tendrá la siguiente apariencia:
  
@@ -168,42 +168,42 @@ Una vez utilizada esta herramienta, en la ventana/editor que se abre se pueden u
 
 ##Ejemplos de datos a usar como pruebas##
 
-Prueba #1
-idea,g,g
-idea,h,h
-idea,e,e
-idea,b,b
-idea,o,o
-idea,to,to
-conectar,g,h
-conectar,h,o
-conectar,g,e
-conectar,b,e
+    Prueba #1
+    idea,g,g
+    idea,h,h
+    idea,e,e
+    idea,b,b
+    idea,o,o
+    idea,to,to
+    conectar,g,h
+    conectar,h,o
+    conectar,g,e
+    conectar,b,e
 
  
 
 Prueba #2
-idea,g,g,brown,yellow
-idea,h,h,brown,yellow
-idea,e,e,brown,yellow
-idea,b,b,brown,yellow
-idea,o,o,brown,yellow
-idea,to,to,brown,yellow
-conectar,g,h
-conectar,h,o
-conectar,g,e
-conectar,b,e
+    idea,g,g,brown,yellow
+    idea,h,h,brown,yellow
+    idea,e,e,brown,yellow
+    idea,b,b,brown,yellow
+    idea,o,o,brown,yellow
+    idea,to,to,brown,yellow
+    conectar,g,h
+    conectar,h,o
+    conectar,g,e
+    conectar,b,e
 
  
 Prueba #3
 
-idea,g,g,gray,yellow
-idea,h,h,gray,yellow
-idea,e,e,gray,yellow
-idea,o,o,gray,yellow
-conectar,g,h
-conectar,h,o
-conectar,g,e
+    idea,g,g,gray,yellow
+    idea,h,h,gray,yellow
+    idea,e,e,gray,yellow
+    idea,o,o,gray,yellow
+    conectar,g,h
+    conectar,h,o
+    conectar,g,e
 
  
 

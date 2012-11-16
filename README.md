@@ -1,7 +1,7 @@
-Instituto Tecnológico de Costa Rica
-Interfaces Graficas de Usuario
-Prof: Armando Arce
-Estudiantes: Oscar Rodríguez Corrales, Milagro Solano Fonseca
+* Instituto Tecnológico de Costa Rica
+* Interfaces Graficas de Usuario
+* Prof: Armando Arce
+* Estudiantes: Oscar Rodríguez Corrales, Milagro Solano Fonseca
 
 ##Introducción##
 Los mapas conceptuales son útiles en la representación y compresión de materia sobre algún tema o temas en específico, muchas veces usados por estudiantes o trabajadores para resumir información útil, la cual acomodada de cierta manera es representativa visualmente y puede ser comprendida y recordada de mejor manera.
@@ -183,6 +183,7 @@ Una vez utilizada esta herramienta, en la ventana/editor que se abre se pueden u
  
 
 Prueba #2
+
     idea,g,g,brown,yellow
     idea,h,h,brown,yellow
     idea,e,e,brown,yellow
